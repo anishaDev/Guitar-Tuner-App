@@ -1,0 +1,24 @@
+{
+  "name": "react-native-recording",
+  "version": "0.5.1",
+  "summary": "React Native audio recording module used for DSP",
+  "authors": {
+    "7c00": "i@7c00.cc"
+  },
+  "homepage": "https://github.com/qiuxiang/react-native-recording",
+  "license": {
+    "type": "MIT"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/qiuxiang/react-native-recording"
+  },
+  "source_files": "**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

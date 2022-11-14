@@ -1,0 +1,6 @@
+module Pods_newTuner_newTunerTests {
+  umbrella header "Pods-newTuner-newTunerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

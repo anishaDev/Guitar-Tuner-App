@@ -1,0 +1,6 @@
+module Pods_newTuner {
+  umbrella header "Pods-newTuner-umbrella.h"
+
+  export *
+  module * { export * }
+}

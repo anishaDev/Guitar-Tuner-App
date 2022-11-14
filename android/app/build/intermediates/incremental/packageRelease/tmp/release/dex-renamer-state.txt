@@ -1,0 +1,4 @@
+#Mon Nov 14 18:06:53 IST 2022
+base.0=/Users/anishamishra/tunerappclone/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-microphone-stream/ios/MicrophoneStream.h
